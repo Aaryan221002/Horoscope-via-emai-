@@ -207,8 +207,3 @@ emailentry.grid(row=7, column=10)
 #Button & packing it and assigning it a command
 Button(text="Submit", command=printvals).grid(row=10, column=10)
 root.mainloop()
-#some changes made by aaryan
-#some more changes as a branch
-
-#some more more more more changes as a branch
-#some even more more more more changes as a branch
